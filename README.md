@@ -43,11 +43,13 @@ Before running this project, make sure you have installed:
     ```plaintext
    0xxxx
 
-4. **If you want to use a proxy, edit the proxy.txt file. Example:**
+5. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
    http://username:password@ip:port
+   
+6. **Custom shards & exp, edit the config.json file.**
 
-5. **Run the script:**
+7. **Run the script:**
    ```plaintext
    node ura.js
    
