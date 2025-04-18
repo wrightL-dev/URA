@@ -1,4 +1,4 @@
 {
-    "level":"Easy",
-    "delay":10000
+  "shardsMin": 50,
+  "shardsMax": 250
 }
