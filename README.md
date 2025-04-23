@@ -47,7 +47,7 @@ Before running this project, make sure you have installed:
    ```plaintext
    http://username:password@ip:port
    
-6. **Custom shards & exp, edit the config.json file.**
+6. **Custom shards, exp & booster, edit the config.json file.**
 
 7. **Run the script:**
    ```plaintext
