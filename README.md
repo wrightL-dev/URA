@@ -51,7 +51,7 @@ Before running this project, make sure you have installed:
 
 7. **Run the script:**
    ```plaintext
-   node ura.js
+   node ura-new.js
    
 ## Support
 
