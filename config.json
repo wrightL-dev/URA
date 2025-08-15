@@ -1,7 +1,0 @@
-{
-  "shardsMin": 750,
-  "shardsMax": 1500,
-  "multipler_shard": false,
-  "conveyor_booster": false,
-  "auto_collect": false
-}
