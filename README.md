@@ -31,7 +31,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install fs playwright cycletls readline form-data qs
+    npm install fs playwright cycletls@1.0.27 readline form-data qs
     
 3. **Install the required packages:**
 
